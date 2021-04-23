@@ -1,0 +1,4 @@
+Name	Telephone	Password
+Stelios	1234567890	passwd1
+Giannis	5498736510	passwd2
+Kostas 	9654789653	passwd3
